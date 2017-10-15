@@ -1,0 +1,1 @@
+A simulator for the SIC machine architecture
